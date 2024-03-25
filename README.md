@@ -34,7 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Billions of Rupiah are lost due to online fraud every year, causing huge losses for users and the financial industry. Great attention has been paid to the search for techniques to avoid this significant loss of money. The project will build an application named “Online Payments Fraud Detection System using Artificial Intelligence”. In this application, we use machine learning (Random Forest) techniques for the detection of customer fraud.
+Billions of Rupiah are lost due to online fraud every year, causing huge losses for users and the financial industry. Great attention has been paid to the search for techniques to avoid this significant loss of money. 
+
+The project builds an application named “Online Payments Fraud Detection System using Artificial Intelligence”. In this application, we use machine learning (Random Forest) techniques for the detection of customer fraud.
 
 
 **Note:** This project is still in Jupyter Notebook. The next step is to carry out the packaging and deploying code process.
